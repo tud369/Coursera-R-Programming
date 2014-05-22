@@ -3,7 +3,7 @@
 ## retrieve an answer quickly, if it had already been solved earlier.
 
 ## The function makeCacheMatrix creates a list of 4 functions, that 
-## will than be used within the function cacheSolve.
+## will then be used within the function cacheSolve.
 
 makeCacheMatrix <- function(x = matrix()) {
       s <- NULL
